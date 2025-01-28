@@ -30,7 +30,6 @@ ul {
   display: flex;
   flex-direction: row;
 }
-
 li {
   margin-right: 1rem;
 }
